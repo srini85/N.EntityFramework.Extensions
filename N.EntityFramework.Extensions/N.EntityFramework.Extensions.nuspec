@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
-    <id>N.EntityFramework.Extensions</id>
+    <id>N.EntityFramework.Extensions.Signed</id>
     <version>1.3.5</version>
-    <title>N.EntityFramework.Extensions</title>
+    <title>N.EntityFramework.Extensions.Signed</title>
     <authors>Northern25</authors>
     <owners>Northern25</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
